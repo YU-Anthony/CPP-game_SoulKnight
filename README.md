@@ -1,23 +1,23 @@
 Role-playing game inspired by Soul Knight and to produce a simple 2D game using C++/SDL, focusing on the inclusion of a tile manager, animation, texturing, Object Oriented Principles (Inheritance, Interfaces etc.) and gameplay logic.
-<center class="half">
-    <img src="images/start.png" width="300"/><img src="images/main_game.png" width="310"/>
-</center>
+<div align="center">
+    <img src="images/start.png" width="280"/><img src="images/main_game.png" width="290"/>
+</div>
 
-<center class="half">
-    <img src="images/operate2.png" width="305"/><img src="images/operate1.png" width="289"/>
-</center>
+<div align="center">
+    <img src="images/operate2.png" width="285"/><img src="images/operate1.png" width="269"/>
+</div>
 
 
 There are 5 different object classes in the game, to achieve a consistent animation, the corresponding sprite sheets are loaded. 
-<center class="half">
-    <img src="images/knight.png" width="180"/><img src="images/monster1.png" width="200"/><img src="images/monster2.png" width="210"/>
-</center>
+<div align="center">
+    <img src="images/knight.png" width="160"/><img src="images/monster1.png" width="180"/><img src="images/monster2.png" width="190"/>
+</div>
 
 
 During the game, user can generate weapons by pressing “J” button and choose which kind of weapon to fire by press “1” (arrow) or “2” (fireball). After that, the new weapon is generated.
-<center class="half">
-    <img src="images/arrow.png" width="250"/><img src="images/fireball.png" width="350"/>
-</center>
+<div align="center">
+    <img src="images/arrow.png" width="230"/><img src="images/fireball.png" width="330"/>
+</div>
 
 I added many interesting elements and designed an interesting story line:  Evil monsters have captured your friends, and you need to go to the dungeon to rescue them. The doors between levels are closed so that you need to defeat monsters in each level and acquire enough gems to open these doors. You can escape from the dungeon if you defeat the final boss. Good Luck!
 
